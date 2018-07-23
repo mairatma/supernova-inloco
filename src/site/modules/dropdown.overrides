@@ -1,3 +1,8 @@
 /*******************************
         User Overrides
 *******************************/
+.ui.selection.dropdown > .search.icon,
+.ui.selection.dropdown > .delete.icon,
+.ui.selection.dropdown > .dropdown.icon {
+  padding: 9px;
+}

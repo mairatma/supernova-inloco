@@ -1,0 +1,19 @@
+{
+  "name": "supernova-v2",
+  "version": "0.0.1",
+  "description": "Semantic-UI Toolkit - Inloco theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/ubeedev/supernova-v2.git"
+  },
+  "author": "Inloco Team",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/ubeedev/supernova-v2#readme",
+  "dependencies": {
+    "semantic-ui-react": "^0.82.1"
+  }
+}

@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/ubeedev/supernova-v2.git"
+    "url": "git+ssh://git@bitbucket.org/ubeedev/supernova-inloco.git"
   },
   "author": "Inloco Team",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/ubeedev/supernova-v2#readme",
+  "homepage": "https://bitbucket.org/ubeedev/supernova-inloco#readme",
   "dependencies": {
     "semantic-ui-react": "^0.82.1"
   }

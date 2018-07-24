@@ -1,3 +1,12 @@
 /*******************************
     User Variable Overrides
 *******************************/
+
+@fontWeight: 100;
+
+/* HTML Headings */
+@h1 : 1.715rem;
+@h2 : 1.43rem;
+@h3 : 1.25rem;
+@h4 : 1rem;
+@h5 : 0.9rem;

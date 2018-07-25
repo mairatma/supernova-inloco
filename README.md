@@ -3,9 +3,7 @@
 ## Installing (TODO)
 
 ```sh
-  npm install --save semantic-ui-inloco-css
+  npm install --save supernova-inloco
   #or
-  yarn add semantic-ui-inloco-css
+  yarn add supernova-inloco
 ```
-
-## Contributing (TODO)

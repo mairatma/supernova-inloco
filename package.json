@@ -1,11 +1,14 @@
 {
   "name": "supernova-inloco",
-  "version": "3.0.0-beta.0",
+  "version": "3.0.0-beta.1",
   "description": "Semantic-UI Toolkit - In Loco theme",
+  "files": [
+    "dist"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublishOnly": "gulp install"
+    "prepublishOnly": "gulp build"
   },
   "repository": {
     "type": "git",
@@ -16,5 +19,8 @@
   "homepage": "https://github.com/inloco/supernova-inloco",
   "dependencies": {
     "semantic-ui-react": "^0.82.1"
+  },
+  "devDependencies": {
+    "semantic-ui": "^2.3.3"
   }
 }

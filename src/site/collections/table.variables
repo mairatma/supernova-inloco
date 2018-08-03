@@ -3,4 +3,5 @@
 *******************************/
 
 @headerColor: #616263;
+@sortableColor: #616263;
 @headerFontWeight: 400;

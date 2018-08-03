@@ -2,4 +2,6 @@
     User Variable Overrides
 *******************************/
 
+@labelFontSize: 14px;
 @labelFontWeight: 400;
+@labelColor: #616263;

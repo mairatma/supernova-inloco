@@ -7,7 +7,7 @@
 ---------------*/
 @pageBackground      : #fafbfc;
 @textColor           : #4A4B4C;
-
+@inputPlaceholderColor: rgba(74,75,76, .4);
 
 /*-------------------
       Site Colors
@@ -15,3 +15,14 @@
 
 /*---  Colors  ---*/
 @pink             : #ff1a66;
+
+
+@linkColor           : #3a72fb;
+@linkHoverColor      : darken(saturate(@linkColor, 20), 15, relative);
+
+/*-------------------
+      Base Sizes
+--------------------*/
+
+@fontSize          : 14px;
+

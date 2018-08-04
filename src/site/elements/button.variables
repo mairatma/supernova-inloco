@@ -1,3 +1,5 @@
 /*******************************
     User Variable Overrides
 *******************************/
+
+@verticalPadding: 11.5px; //To make the button total height ~36px

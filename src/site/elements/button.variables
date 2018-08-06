@@ -3,3 +3,5 @@
 *******************************/
 
 @verticalPadding: 11.5px; //To make the button total height ~36px
+@fontWeight: 500;
+@hoverBoxShadow: none !important;

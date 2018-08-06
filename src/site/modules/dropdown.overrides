@@ -7,3 +7,6 @@
   padding: 6px;
   font-size: 20px;
 }
+.ui.loading.selection.dropdown>i.icon {
+  padding: 6px !important;
+}

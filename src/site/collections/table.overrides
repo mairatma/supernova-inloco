@@ -1,3 +1,20 @@
 /*******************************
          Site Overrides
 *******************************/
+.ui.basic.table th {
+  font-size: 12px;
+}
+
+.ui.basic.table th:first-child,
+.ui.basic.table td:first-child {
+  padding-left: 0;
+}
+
+.ui.basic.table th:last-child,
+.ui.basic.table td:last-child {
+  padding-right: 0;
+}
+
+.ui.basic.table td {
+  vertical-align: top;
+}

@@ -26,3 +26,5 @@
 
 @fontSize          : 14px;
 
+
+@internalBorderColor       : #CFD1D8;

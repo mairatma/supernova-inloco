@@ -7,3 +7,5 @@
 @headerFontWeight: 400;
 @labelFontSize: 12px;
 @cellVerticalPadding: 16px;
+@cellHorizontalPadding: 20px;
+@sortableIconDistance: .2em;

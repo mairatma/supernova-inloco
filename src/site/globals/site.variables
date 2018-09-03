@@ -2,6 +2,12 @@
      User Global Variables
 *******************************/
 
+/*-------------------
+       Fonts
+--------------------*/
+
+@fontName          : 'Roboto';
+
 /*--------------
       Page
 ---------------*/
@@ -9,12 +15,17 @@
 @textColor           : #4A4B4C;
 @inputPlaceholderColor: rgba(74,75,76, .4);
 
+@inputVerticalPadding   : @relative12px;
+@inputHorizontalPadding : @relative12px;
+
 /*-------------------
       Site Colors
 --------------------*/
 
 /*---  Colors  ---*/
-@pink             : #ff1a66;
+@pink             : #FA0C64;
+@pinkHover        : #EB0559;
+@pinkFocus        : #EB0559;
 
 
 @linkColor           : #3a72fb;
@@ -28,3 +39,26 @@
 
 
 @internalBorderColor       : #CFD1D8;
+
+/*-------------------
+      Borders
+--------------------*/
+
+@circularRadius                : 500rem;
+
+@borderColor               : rgba(62, 73, 101, .25);
+
+/*-------------------
+    Focused Input
+--------------------*/
+
+/* Used on inputs, textarea etc */
+@focusedFormBorderColor: rgba(62, 73, 101, .25);
+@inputPlaceholderFocusColor: rgba(62, 73, 101, .25);
+@focusedFormMutedBorderColor: rgba(34, 36, 38, .35);
+
+/*-------------------
+    Disabled
+--------------------*/
+
+@disabledOpacity: 0.4;

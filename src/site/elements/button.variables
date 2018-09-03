@@ -2,7 +2,16 @@
     User Variable Overrides
 *******************************/
 
+@disabledOpacity: 1;
+
 @verticalPadding: 11.5px; //To make the button total height ~36px
-@fontWeight: 500;
-@hoverBoxShadow: none !important;
+@fontWeight: 600;
+@hoverBoxShadow: inset 0 0 0px 2px rgba(62, 73, 101, .2);
+@focusBoxShadow: inset 0 0 0px 2px rgba(62, 73, 101, .2) !important;
 @medium: 14px;
+
+@backgroundColor: rgba(62, 73, 101, .08);
+@backgroundImage: none;
+@basicColoredBorderSize: 0;
+@borderBoxShadow: 0px 0px 0px 0px transparent;
+@hoverBackgroundColor: rgba(62, 73, 101, .12);

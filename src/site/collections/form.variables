@@ -2,6 +2,10 @@
     User Variable Overrides
 *******************************/
 
+@rowDistance: 24px;
+
 @labelFontSize: 12px;
 @labelFontWeight: 400;
 @labelColor: rgba(97,98,99, .88);
+
+@inputFocusBoxShadow: 0 0 0px 1px rgba(62, 73, 101, .5);

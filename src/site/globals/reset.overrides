@@ -4,4 +4,7 @@
 * {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  transition-property: all;
+  transition-duration: .24s;
+  transition-timing-function: cubic-bezier(.64, 0, .35, 1);
 }

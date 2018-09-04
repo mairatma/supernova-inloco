@@ -3,6 +3,7 @@
 *******************************/
 
 /* Add hover behavior to input/textarea buttons on Semantic-UI */
+
 .ui.input>input:hover, .ui.input>textarea:hover,
 .ui.form input:not([type]):hover, .ui.form input[type=date]:hover,
 .ui.form input[type=datetime-local]:hover, .ui.form input[type=email]:hover,

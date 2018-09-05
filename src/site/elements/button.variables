@@ -4,7 +4,7 @@
 
 
 @verticalPadding: 11.5px; //To make the button total height ~36px
-@fontWeight: 600;
+@fontWeight: 500;
 @hoverBoxShadow: 0;
 @hoverColor: inherit;
 @focusColor: inherit;

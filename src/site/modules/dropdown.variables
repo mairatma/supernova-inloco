@@ -1,3 +1,5 @@
 /*******************************
     User Variable Overrides
 *******************************/
+
+@selectionHoverBoxShadow: inset 0 0 0 1px rgba(99,115,129,.2);

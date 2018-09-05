@@ -45,8 +45,8 @@
 --------------------*/
 
 @circularRadius                : 500rem;
-
 @borderColor               : rgba(62, 73, 101, .25);
+@selectedBorderColor: rgba(62, 73, 101, .35);
 
 /*-------------------
     Focused Input

@@ -9,3 +9,7 @@
 @labelColor: rgba(97,98,99, .88);
 
 @inputFocusBoxShadow: 0 0 0px 1px rgba(62, 73, 101, .5);
+@inputTransition:
+    color .2s cubic-bezier(.64,0,.35,1),
+    border-color .2s cubic-bezier(.64,0,.35,1),
+    box-shadow .2s cubic-bezier(.64,0,.35,1);

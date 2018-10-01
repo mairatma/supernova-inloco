@@ -1,3 +1,13 @@
 /*******************************
          Site Overrides
 *******************************/
+
+.ui.modal > .header {
+  line-height: 20px;
+  font-size: 20px;
+}
+
+.ui.modal > .header > .icon {
+  font-size: 20px;
+  padding: 0;
+}

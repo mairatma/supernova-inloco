@@ -7,8 +7,9 @@
   ],
   "main": "./dist/index.js",
   "scripts": {
+    "build:css": "gulp build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublishOnly": "gulp build && npm run build",
+    "prepublishOnly": "npm run build:css && npm run build",
     "build": "babel ./index.js -d ./dist"
   },
   "repository": {

@@ -1,3 +1,9 @@
 /*******************************
          Site Overrides
 *******************************/
+
+/* Header */
+@headerColor: #616263;
+@headerFontWeight: 300;
+@headerPadding: 24px;
+@headerBorder: none;

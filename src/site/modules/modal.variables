@@ -15,6 +15,7 @@
 
 /* Header */
 @headerBorder: 0;
+@headerColor: #616263;
 @headerPadding: 24px 24px 16px;
 @headerFontWeight: 300;
 @headerLineHeight: 20px;

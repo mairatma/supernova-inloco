@@ -4,6 +4,7 @@
 
 
 @verticalPadding: 11.5px; //To make the button total height ~36px
+@horizontalMargin: 0;
 @fontWeight: 500;
 @hoverBoxShadow: 0;
 @hoverColor: inherit;
@@ -17,3 +18,4 @@
 @basicColoredBorderSize: 0;
 @borderBoxShadow: 0px 0px 0px 0px transparent;
 @hoverBackgroundColor: rgba(62, 73, 101, .12);
+

@@ -2,8 +2,30 @@
          Site Overrides
 *******************************/
 
+@boxShadow: none;
+
+/* Close Icon */
+@closeColor: #4a4b4c;
+@closeTop: 0;
+@closeRight: 0;
+@closeSize: 20px;
+@closePadding: 4px;
+@closeHitbox: 28px;
+
+
 /* Header */
+@headerBorder: 0;
 @headerColor: #616263;
+@headerPadding: 24px 24px 16px;
 @headerFontWeight: 300;
-@headerPadding: 24px;
-@headerBorder: none;
+@headerLineHeight: 20px;
+
+/* Content */
+@contentPadding: 0 24px;
+
+/* Modal Actions */
+@actionBorder: 0;
+@actionBackground: @white;
+@actionPadding: 24px 16px 16px;
+
+@buttonDistance: 16px;

@@ -27,8 +27,10 @@
 @pinkHover        : #EB0559;
 @pinkFocus        : #EB0559;
 
+@blue             : #3A72FB;
+@green            : #A7CC0E;
 
-@linkColor           : #3a72fb;
+@linkColor           : @blue;
 @linkHoverColor      : darken(saturate(@linkColor, 20), 15, relative);
 
 /*-------------------
